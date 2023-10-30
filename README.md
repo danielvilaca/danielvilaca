@@ -55,7 +55,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btNhMBytxAM6YBa/giphy.gif" alt="animated" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/danielvilaca/danielvilaca/output/github-contribution-grid-snake.svg" />
 </p>
 
 <br></br>
