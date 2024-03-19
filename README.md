@@ -29,7 +29,7 @@
 </p>
 
 <br></br>
-  <h3 align="center">Languages | OS's | Tools:</h1>
+  <h3 align="center">Languages | OS's | Frameworks:</h1>
  <br></br>
 <p align="center">
 
