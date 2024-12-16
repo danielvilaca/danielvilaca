@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://tryhackme.com/r/p/daniel.vilaca98" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/daniel.vilaca98.png" alt="TryHackMe Badge" style="border:none;" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/daniel.vilaca98.png" alt="TryHackMe Badge" style="border:none;"/>
   </a>
 </p>
 
