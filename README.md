@@ -27,9 +27,7 @@
 <br/></br>
 
 <p align="center">
-  <a href="https://tryhackme.com/r/p/0xStr1k3r" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/0xStr1k3r.png" alt="TryHackMe Badge" style="border:none;"/>
-  </a>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/0xStr1k3r.png" alt="TryHackMe Badge"/>
 </p>
 
 <br/></br>
