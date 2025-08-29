@@ -22,7 +22,7 @@
 <br/></br>
 
 <p align="center">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/0xStr1k3r.png" alt="TryHackMe Badge"/>
+    <img href="https://tryhackme.com/p/0xStr1k3r" src="https://tryhackme-badges.s3.amazonaws.com/0xStr1k3r.png" alt="TryHackMe Badge"/>
 </p>
 
 <br/></br>
