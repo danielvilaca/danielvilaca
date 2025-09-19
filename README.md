@@ -21,20 +21,20 @@
 
 <br/></br>
 
-<!--
+
 <p align="center">
   <a href="https://tryhackme.com/p/0xStr1k3r">
     <img src="https://tryhackme-badges.s3.amazonaws.com/0xStr1k3r.png" alt="TryHackMe Badge"/>
   </a>
 </p>
--->
 
+<!--
 <p align="center">
   <a href="https://tryhackme.com/p/0xStr1k3r">
     <img src="Images/0xStr1k3r.png" alt="TryHackMe Badge"/>
   </a>
 </p>
-
+-->
 
 
 <br/></br>
