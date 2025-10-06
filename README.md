@@ -3,7 +3,7 @@
 <p align="center">
   <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monteserrat&weight=500&size=30&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;AppSec+Enthusiast;Pentesting+Enthusiast" alt="Typing SVG" /></a>
 </p> -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monteserrat&weight=500&size=40&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Cybersecurity;Malware+Analysis;Pentesting;Cryptography" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monteserrat&weight=500&size=50&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Malware+Analysis;Reverse+Eng;Pentesting" alt="Typing SVG" /></a>
 
 <p align="center">
   <!-- <img src="https://media.giphy.com/media/l4EpkVLqUj8BI7OV2/giphy.gif" alt="animated" /> -->
