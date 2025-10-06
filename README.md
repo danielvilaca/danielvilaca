@@ -46,6 +46,8 @@
   <a target="_blank" href="https://tryhackme.com/0xKa0s/badges/mr-robot"><img title="Mr. Robot"alt="TryHackMe Badge 2"src="https://tryhackme.com/img/badges/mrrobot.svg"width="100"></a>
   <a target="_blank" href="https://tryhackme.com/0xKa0s/badges/30-day-streak"><img title="30 Day Streak"alt="TryHackMe Badge 3"src="https://tryhackme.com/img/badges/streak30.svg"width="100"></a>
   <a target="_blank" href="https://tryhackme.com/0xKa0s/badges/linux-privesc"><img title="Linux PrivEsc"alt="TryHackMe Badge 4"src="https://tryhackme.com/img/badges/linuxprivesc.svg"width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/0xKa0s/badges/sql-slayer"><img title="SQL Slayer"alt="TryHackMe Badge 5"src="https://tryhackme.com/img/badges/injection.svg"width="100"></a>
+  
   
   
   
