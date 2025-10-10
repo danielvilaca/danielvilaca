@@ -49,7 +49,7 @@
   <a target="_blank" href="https://tryhackme.com/0xKa0s/badges/sql-slayer"><img title="SQL Slayer"alt="TryHackMe Badge 5"src="https://tryhackme.com/img/badges/injection.svg"width="100"></a>
 <div align="center">
   <a target="_blank" href="https://tryhackme.com/0xKa0s/badges/network-fundamentals"><img title="Network Nerd"alt="TryHackMe Badge 6"src="https://tryhackme.com/img/badges/networkfundamentals.svg"width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/0xKa0s/badges/blue"><img title="EternalBlue"alt="TryHackMe Badge 7"src="https://tryhackme.com/img/badges/blue.svg"width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/0xKa0s/badges/hash-cracker"><img title="Hash Cracker"alt="TryHackMe Badge 7"src="https://tryhackme.com/img/badges/hashcracker.svg"width="100"></a>
   <a target="_blank" href="https://tryhackme.com/0xKa0s/badges/just-have-to-deal-with-it"><img title="Managing Incidents"alt="TryHackMe Badge 8"src="https://tryhackme.com/img/badges/managingincidents.svg"width="100"></a>
   
   
