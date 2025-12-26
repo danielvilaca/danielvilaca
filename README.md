@@ -7,20 +7,20 @@
 
 <br><br>
 
-<!--
+
 <p align="center">
   <a href="https://tryhackme.com/p/0xKa0s">
     <img src="https://tryhackme-badges.s3.amazonaws.com/0xKa0s.png" alt="TryHackMe Badge"/>
   </a>
 </p>
--->
 
+<!--
 <p align="center">
   <a href="https://tryhackme.com/p/0xKa0s">
     <img src="Images/0xKa0s.png" alt="TryHackMe Badge"/>
   </a>
 </p>
-
+-->
 
 <br><br>
 
