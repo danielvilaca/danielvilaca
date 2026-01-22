@@ -25,15 +25,15 @@
 <br><br>
 
 <div align="center">
-  <a target="_blank" href="https://tryhackme.com/0xKa0s/badges/ruby-league"><img title="1st Ruby-League"alt="TryHackMe Badge 1"src="https://tryhackme.com/img/badges/league-ruby.svg"width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/0xKa0s/badges/mr-robot"><img title="Mr. Robot"alt="TryHackMe Badge 2"src="https://tryhackme.com/img/badges/mrrobot.svg"width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/0xKa0s/badges/90-day-streak"><img title="90 Day Streak"alt="TryHackMe Badge 3"src="https://tryhackme.com/img/badges/streak90.svg"width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/0xKa0s/badges/linux-privesc"><img title="Linux PrivEsc"alt="TryHackMe Badge 4"src="https://tryhackme.com/img/badges/linuxprivesc.svg"width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/0xKa0s/badges/sql-slayer"><img title="SQL Slayer"alt="TryHackMe Badge 5"src="https://tryhackme.com/img/badges/injection.svg"width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/0xKa0s/badges/ruby-league"><img title="1st Ruby-League"alt="TryHackMe Badge 1"src="https://assets.tryhackme.com/img/badges/league-ruby.svg"width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/0xKa0s/badges/mr-robot"><img title="Mr. Robot"alt="TryHackMe Badge 2"src="https://assets.tryhackme.com/img/badges/mrrobot.svg"width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/0xKa0s/badges/90-day-streak"><img title="90 Day Streak"alt="TryHackMe Badge 3"src="https://assets.tryhackme.com/img/badges/streak90.svg"width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/0xKa0s/badges/linux-privesc"><img title="Linux PrivEsc"alt="TryHackMe Badge 4"src="https://assets.tryhackme.com/img/badges/linuxprivesc.svg"width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/0xKa0s/badges/sql-slayer"><img title="SQL Slayer"alt="TryHackMe Badge 5"src="https://assets.tryhackme.com/img/badges/injection.svg"width="100"></a>
 <div align="center">
-  <a target="_blank" href="https://tryhackme.com/0xKa0s/badges/network-fundamentals"><img title="Network Nerd"alt="TryHackMe Badge 6"src="https://tryhackme.com/img/badges/networkfundamentals.svg"width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/0xKa0s/badges/hash-cracker"><img title="Hash Cracker"alt="TryHackMe Badge 7"src="https://tryhackme.com/img/badges/hashcracker.svg"width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/0xKa0s/badges/just-have-to-deal-with-it"><img title="Managing Incidents"alt="TryHackMe Badge 8"src="https://tryhackme.com/img/badges/managingincidents.svg"width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/0xKa0s/badges/network-fundamentals"><img title="Network Nerd"alt="TryHackMe Badge 6"src="https://assets.tryhackme.com/img/badges/networkfundamentals.svg"width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/0xKa0s/badges/hash-cracker"><img title="Hash Cracker"alt="TryHackMe Badge 7"src="https://assets.tryhackme.com/img/badges/hashcracker.svg"width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/0xKa0s/badges/just-have-to-deal-with-it"><img title="Managing Incidents"alt="TryHackMe Badge 8"src="https://assets.tryhackme.com/img/badges/managingincidents.svg"width="100"></a>
   
 <br><br>
 
